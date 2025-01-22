@@ -1,12 +1,5 @@
 # COGNIFYZ-DATA-SCIENCE-INTERNSHIP-Restaurant_Data_Analysis_and_Prediction
 # Problem Statement
-Data science intern with Cognifyz
-
-Thanks God ,It has been a very busy month and has taken a lot of effort from me.
-
-I enjoyed working with Cognifyz, it was a month full of achievements, more work, participation, and tasks required.
-
-
 In brief The work was divided into three levels, each level was divided into three tasks.
 
 The first level :
